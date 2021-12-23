@@ -1,3 +1,7 @@
+# Technical Interview
+
+## Part 1 – Frontend ReactJS
+
 # Installation
 
 ### `npm install`
@@ -6,7 +10,7 @@
 
 ### `npm start`
 
-# Finishing Tasks
+# Finished Tasks
 
 Task 1 – Utilize any chart APIs
 
